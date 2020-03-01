@@ -1,15 +1,17 @@
-# Mobile Flashcards
-
-Mobile Flashcards is a React Native app for iOS and Android that allows users to create flashcard decks, that they can add cards to and quiz themselves.
-
-This project was bootstrapped with [Create React Native App](https://github.com/facebook/create-react-native-app). It uses React Native, Expo, Redux, & React Navigation.
-
-## Installation
-
-Clone the repository, change directories, and use npm or yarn to install the dependencies.
-
+TL;DR
+----
+> Clone or Download the repo,
+>
 `npm install`
 `npm start`
+
+
+
+- App Name : Flash Cards 
+- Context of development:  instruction of project Udacity 
+- Technology used: React-Native
+- Functionality: Question - Answer Cards
+
 
 ## Usage
 
