@@ -5,7 +5,8 @@ TL;DR
 `npm install`
 `npm start`
 
-
+Info
+-----
 
 - App Name : Flash Cards 
 - Context of development:  instruction of project Udacity 
